@@ -1,0 +1,14 @@
+CC101 | Online Fraud | Fraud through a fake shopping website | High | Open
+CC102 | Phishing | Fake email used to collect login details | High | Open
+CC103 | Cyberbullying | Repeated harassment through social media | Medium | Open
+CC104 | Identity Theft | Misuse of a fictional person's account information | High | Open
+CC105 | Malware | Suspicious software reported on a demo computer | Medium | Open
+CC101 | Case ID: CC101 | Crime Type: Online Fraud | Description: Fraud through a fake shopping website | Open
+CC101 | Online Fraud | Fraud through a fake shopping website | High | Open
+CC102 | Phising | Fake email used to collect login details | High | Open
+CC103 | Cyberbullying | Repeated harassment through social media | Medium | Open
+CC104 | Identity Theft | Misuse of a fictional person's account information | High | Open
+CC105 | Malware | Suspisicous software reported on a demo computer | Medium | Open
+CC101 | Online Fraud | Fraud Through a fake shopping website | High | Open
+CC106 | Ransomware Attack | A college computer system was affected by malware that encrypted important files and restricted access. | High | Open
+CC102 | Identity theft | Fake id | high | Open
